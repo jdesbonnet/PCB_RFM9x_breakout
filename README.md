@@ -12,3 +12,6 @@ enough to have at least one available contact  point on each side.
 As of 2018-04-18 this has been submitted for fabrication. I'll update this
 note when the board arrives and the design has been verified. 
 
+Arrived 2018-05-03. Tested 2018-05-08. Works, only problem is the tiny font
+of the pin labels. Increased font size by 50% (to 0.75mm) and resubmitted as
+version 1.0.1.
